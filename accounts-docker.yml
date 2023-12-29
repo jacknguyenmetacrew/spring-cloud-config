@@ -6,7 +6,7 @@ spring:
     username: root
     password: ''
 accounts:
-  message: "Welcome to EazyBank accounts 123 related local APIs "
+  message: "Welcome to EazyBank accounts 123454 related local APIs "
   contactDetails:
     name: "Smitha Ray - QAB Lead"
     email: "smitha@eazybank.com"
